@@ -1,8 +1,17 @@
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
 }
 
 canvas {
   display: block;
+}
+
+button {
+  background-color: orange;
+  color: blue;
+  border-radius: 40px;
+  border-style: double;
+  border-color: salmon;
 }
